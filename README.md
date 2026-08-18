@@ -127,11 +127,15 @@ Create the required environment files before starting the apps. The backend need
 ## Future Scope
 
 - Audio calls
-- Video calls
+- Video calls (use SFU WebRTC architecture) (use mediasoup library)
+- Screen Sharing
 - Files section
 - Reply to a message
 - Reactions to chats/messages
-
-## Last Updated
-
-July 6, 2026
+- Implement Bloom Filter for checking username availability
+- use Redis to store online users data
+- Fetch contacts from gmail if user registered using gmail
+- Provide feature to signup/login with Facebook, and fetch their facebook friends
+- Update sent/delivered/read receipt
+- Offline support (use Cached API and Indexed DB)
+- update websocket to send and receive data in buffer/binary format instead of json format
