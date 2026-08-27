@@ -1,4 +1,4 @@
-<img width="1274" height="688" alt="image" src="https://github.com/user-attachments/assets/01dafd85-9c4e-4273-bc50-3cb88d674673" /># BaatChat — Full Stack project
+# BaatChat — Full Stack project
 
 BaatChat is a full-stack real-time chat application with a React frontend and Node.js backend. It supports personal and group messaging, authentication, online presence, notifications, and profile/chat management.
 
