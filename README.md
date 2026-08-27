@@ -1,4 +1,4 @@
-# BaatChat — Full Stack project
+<img width="1274" height="688" alt="image" src="https://github.com/user-attachments/assets/01dafd85-9c4e-4273-bc50-3cb88d674673" /># BaatChat — Full Stack project
 
 BaatChat is a full-stack real-time chat application with a React frontend and Node.js backend. It supports personal and group messaging, authentication, online presence, notifications, and profile/chat management.
 
@@ -139,3 +139,20 @@ Create the required environment files before starting the apps. The backend need
 - Update sent/delivered/read receipt
 - Offline support (use Cached API and Indexed DB)
 - update websocket to send and receive data in buffer/binary format instead of json format
+
+## Preview Screenshots -
+<img width="3024" height="1790" alt="image" src="https://github.com/user-attachments/assets/22de7c15-4a97-45ac-9444-c63455516f22" />
+
+<img width="3024" height="1812" alt="image" src="https://github.com/user-attachments/assets/1945f990-edfc-4643-b244-a74bd1132b0c" />
+
+<img width="3024" height="1804" alt="image" src="https://github.com/user-attachments/assets/844606c1-11da-42a8-8947-b0f83180e94a" />
+
+<img width="3024" height="1782" alt="image" src="https://github.com/user-attachments/assets/178e57c8-5846-4a87-ad26-e0570d9cf18e" />
+
+<img width="896" height="1398" alt="image" src="https://github.com/user-attachments/assets/c7f77e78-f737-4e20-b5f1-7db81ef7f65c" />
+
+<img width="1138" height="1406" alt="image" src="https://github.com/user-attachments/assets/9d3aacd8-d6c7-41aa-8cd9-56ad5d19187e" />
+
+<img width="3012" height="1782" alt="image" src="https://github.com/user-attachments/assets/0fbf3942-3e23-4fe8-8e04-7c7002082f08" />
+
+
